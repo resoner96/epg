@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Gala TV">
+    <display-name lang="es">Gala TV</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Ocho TV">
+    <display-name lang="es">Ocho TV</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="CJ Grand Shopping">
+    <display-name lang="es">CJ Grand Shopping</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Telefórmula">
+    <display-name lang="es">Telefórmula</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Una voz con todos">
+    <display-name lang="es">Una voz con todos</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="CNN Internacional">
+    <display-name lang="es">CNN Internacional</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Fox News">
+    <display-name lang="es">Fox News</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Gala TV HD">
+    <display-name lang="es">Gala TV HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="es">BBC World News</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Canal 24 Horas">
+    <display-name lang="es">Canal 24 Horas</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="es">Euronews</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Telemundo">
+    <display-name lang="es">Telemundo</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Fox Channel">
+    <display-name lang="es">Fox Channel</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Capital 21">
+    <display-name lang="es">Capital 21</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Warner">
+    <display-name lang="es">Warner</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Comedy Central ">
+    <display-name lang="es">Comedy Central </display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="es">FX</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Investigation Discovery">
+    <display-name lang="es">Investigation Discovery</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Canal 22">
+    <display-name lang="es">Canal 22</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="es">TLC</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="es">A&amp;E</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="es">TVE</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Distrito Comedia">
+    <display-name lang="es">Distrito Comedia</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Telehit">
+    <display-name lang="es">Telehit</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="es">MTV</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="es">MTV Hits</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Ritmoson">
+    <display-name lang="es">Ritmoson</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Fox Life ">
+    <display-name lang="es">Fox Life </display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="TBS Very Funny">
+    <display-name lang="es">TBS Very Funny</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="TruTV">
+    <display-name lang="es">TruTV</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="es">Antena 3</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Excélsior TV">
+    <display-name lang="es">Excélsior TV</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Deutsche Welle">
+    <display-name lang="es">Deutsche Welle</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="es">Nick Jr.</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="es">Cartoon Network</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Nat Geo Kids">
+    <display-name lang="es">Nat Geo Kids</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="es">Nickelodeon</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Tiin">
+    <display-name lang="es">Tiin</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="es">Disney Channel</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="es">Disney XD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Nicktoons">
+    <display-name lang="es">Nicktoons</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Televisión Mexiquense">
+    <display-name lang="es">Televisión Mexiquense</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Foro TV">
+    <display-name lang="es">Foro TV</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="es">Discovery Channel</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="es">History Channel</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Discovery Science Channel">
+    <display-name lang="es">Discovery Science Channel</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="es">EWTN</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="TDN">
+    <display-name lang="es">TDN</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="es">Fox Sports</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name lang="es">ESPN 3</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Fighting Sports Network">
+    <display-name lang="es">Fighting Sports Network</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Golf Channel">
+    <display-name lang="es">Golf Channel</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="De Película">
+    <display-name lang="es">De Película</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Golden ">
+    <display-name lang="es">Golden </display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="es">Studio Universal</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="TCM ">
+    <display-name lang="es">TCM </display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Golden Multiplex">
+    <display-name lang="es">Golden Multiplex</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="es">Cinemax</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Cinecanal">
+    <display-name lang="es">Cinecanal</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Europa Europa ">
+    <display-name lang="es">Europa Europa </display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="HBO 2*">
+    <display-name lang="es">HBO 2*</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="MAX UP">
+    <display-name lang="es">MAX UP</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="MAX Prime (Oeste)">
+    <display-name lang="es">MAX Prime (Oeste)</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Golden Premier Delay -2hr  ">
+    <display-name lang="es">Golden Premier Delay -2hr  </display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="FOX Premium Series (West)">
+    <display-name lang="es">FOX Premium Series (West)</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="FOX Action (Oeste)">
+    <display-name lang="es">FOX Action (Oeste)</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="FOX Family (Este)**">
+    <display-name lang="es">FOX Family (Este)**</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="FOX Movies**">
+    <display-name lang="es">FOX Movies**</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="FOX Classics**">
+    <display-name lang="es">FOX Classics**</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Azteca 7">
+    <display-name lang="es">Azteca 7</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Una Voz con Todos HD">
+    <display-name lang="es">Una Voz con Todos HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Canal 22 HD">
+    <display-name lang="es">Canal 22 HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Salud TV">
+    <display-name lang="es">Salud TV</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Mexico Travel Channel">
+    <display-name lang="es">Mexico Travel Channel</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Hola TV HD">
+    <display-name lang="es">Hola TV HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Discovery Theater HD">
+    <display-name lang="es">Discovery Theater HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="es">Nat Geo Wild HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="es">ESPN 2 HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="ESPN 3 HD">
+    <display-name lang="es">ESPN 3 HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Real Madrid Tv">
+    <display-name lang="es">Real Madrid Tv</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="NFL NETWORK HD">
+    <display-name lang="es">NFL NETWORK HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="es">AMC HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="FX Movies HD">
+    <display-name lang="es">FX Movies HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Studio Universal HD">
+    <display-name lang="es">Studio Universal HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="HBO Family (Este) HD">
+    <display-name lang="es">HBO Family (Este) HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="HBO Signature HD">
+    <display-name lang="es">HBO Signature HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Golden Premier HD Delay -2hr  ">
+    <display-name lang="es">Golden Premier HD Delay -2hr  </display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="CNN HD">
+    <display-name lang="es">CNN HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Fox News HD">
+    <display-name lang="es">Fox News HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Atres Series HD">
+    <display-name lang="es">Atres Series HD</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+</tv>
